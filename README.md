@@ -16,9 +16,9 @@ This code was written in an attempt to understand the basics of forward kinemati
 * WRIST
 
 
-# setup
+# Setup
 ![Breadboard layout](Breadboard%20layout.png)
 
-# usage
+# Usage
 1. After uploading the code open up the serial monitor
 2. Follow the instructions in the main.cpp file that dictates which keyboard stroke corresponds to which servo movement
