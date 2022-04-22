@@ -1,13 +1,7 @@
-- [](#)
+# Servo motor control with keyboard
 
-- [](#)
-- [Setup](#setup)
-- [Usage](#usage)
 
-# title
-**Servo motor control with keyboard**
-
-# introduction
+# Introduction
 This code will allow the user to control any one of four servo motors with simple keyboard strokes
 It includes the following components:
 1. Arduino UNO
